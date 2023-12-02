@@ -55,42 +55,50 @@ D7 = X Y Z
 ## Figure -04 8 to 3 Decoder implementation 
 
 ### Procedure
-/* write all the steps invloved */
 
+1.create module encoder and decoder.
 
+2.Get inputs and outputs for encoders and decoders.
+
+3.perform or operation for encoder and and logic for decoders.
+
+4.perform RTL LOGIC and get waveform.
 
 ### PROGRAM 
-/*
-Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Encoder:
 
+![Screenshot 2023-12-02 162503](https://github.com/Devadhaarini/Experiment-08-Encoders-and-decoders-/assets/145796552/3efdec8f-c47d-41c9-8998-1e8930430d53)
 
+Decoder:
 
-
-
+![Screenshot 2023-12-02 162655](https://github.com/Devadhaarini/Experiment-08-Encoders-and-decoders-/assets/145796552/7c8864d3-b977-4287-8ad8-f154fae9fc10)
 
 ### RTL LOGIC  
+Encoder:
 
+![image](https://github.com/Devadhaarini/Experiment-08-Encoders-and-decoders-/assets/145796552/0ef6331d-7f34-459d-ad4d-3cef6a9a5b8d)
 
+Decoder:
 
-
-
-
-
+![image](https://github.com/Devadhaarini/Experiment-08-Encoders-and-decoders-/assets/145796552/d07e7a9e-3616-4adf-b75c-1446406e015e)
 
 ### TIMING DIGRAMS  
+Encoder:
 
+![image](https://github.com/Devadhaarini/Experiment-08-Encoders-and-decoders-/assets/145796552/2d23cb7a-9fdb-4909-83c9-9e43a2ecda2e)
 
+Decoder:
 
-
+![image](https://github.com/Devadhaarini/Experiment-08-Encoders-and-decoders-/assets/145796552/795c38cc-c705-4f60-8179-48d8b285dbdb)
 
 ### TRUTH TABLE 
+Encoder:
 
+![image](https://github.com/Devadhaarini/Experiment-08-Encoders-and-decoders-/assets/145796552/7c2e11a9-9254-4dc8-aafb-990af472da26)
 
+Decoder:
 
-
-
+![image](https://github.com/Devadhaarini/Experiment-08-Encoders-and-decoders-/assets/145796552/f01ed5c6-6de3-4b4e-8349-aa024ac6348c)
 
 ### RESULTS 
+Thus the program to design encoder and decoder is done.
